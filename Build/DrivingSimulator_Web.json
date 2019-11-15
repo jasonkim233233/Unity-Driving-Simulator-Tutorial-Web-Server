@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype 1",
+"productVersion": "0.1",
+"dataUrl": "DrivingSimulator_Web.data.unityweb",
+"wasmCodeUrl": "DrivingSimulator_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "DrivingSimulator_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
